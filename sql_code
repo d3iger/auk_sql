@@ -1,7 +1,5 @@
 SET SQL_SAFE_UPDATES = 0;
 
-DROP DATABASE CarDealership;
-
 CREATE DATABASE CarDealership;
 
 USE CarDealership;
